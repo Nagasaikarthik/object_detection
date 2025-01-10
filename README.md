@@ -1,4 +1,4 @@
-# object_detection_Hierarchical_)Association
+# object_detection_Hierarchical_Association
 This project showcases a robust framework for object detection in video streams. It leverages YOLOv8 to detect objects, associates these objects with sub-object hierarchies, optimizes inference speed, and generates structured JSON output.
 
 Features of the Object Detection:
