@@ -1,4 +1,4 @@
-# object_detection_Hierarchical_Association
+![WhatsApp Image 2025-01-11 at 10 42 28_2173e58c](https://github.com/user-attachments/assets/ad2a42d0-adf4-4b84-b6d8-6fbbc4462f01)# object_detection_Hierarchical_Association
 This project showcases a robust framework for object detection in video streams. It leverages YOLOv8 to detect objects, associates these objects with sub-object hierarchies, optimizes inference speed, and generates structured JSON output.
 
 Features of the Object Detection:
@@ -48,3 +48,5 @@ Specific sub-objects are cropped from the frames using their bounding boxes.
 Optimization techniques, such as frame skipping or resizing, ensure faster processing while maintaining accuracy.
 Detected objects and cropped sub-object images are displayed using OpenCV.
 Real-time updates during video processing.
+
+
